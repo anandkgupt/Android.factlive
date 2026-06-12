@@ -1,0 +1,6 @@
+{
+  "name": "Fact Live",
+  "description": "Interactive mobile fact checker, news verifier, and real-time AI hoax detector.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
